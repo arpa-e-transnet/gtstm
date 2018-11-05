@@ -1,0 +1,26 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+440 - Hampton/Jonesboro to Downtown/Midtown,GRTA,440,Hampton/Jonesboro - Downtown/Midtown,3
+411 - Hamilton Mill/Mall of Georgia to Midtown,GRTA,411,Hamilton Mill/Mall of Georgia - Midtown,3
+442 - Riverdale to Downtown,GRTA,442,Riverdale - Downtown,3
+480 - Acworth/Town Center (Big Shanty) to Downtown,GRTA,480,Acworth/Town Center (Big Shanty) - Downtown,3
+Cumming to Downtown,GRTA,400,Cumming - Downtown,3
+412 - Sugarloaf Mills to Midtown,GRTA,412,Sugarloaf Mill - Midtown,3
+463 - W Douglas/Douglasville to Downtown/Midtown,GRTA,463,West Douglas/Douglasville - Downtown/Midtown,3
+476 - Hiram/Powder Springs to Downtown/Midtown,GRTA,476,Hiram/Powder Springs - Downtown/Midtown,3
+430 - McDonough to Downtown,GRTA,430,McDonough - Downtown,3
+426 - E Conyers/W Conyers/Panola Road to Downtown,GRTA,426,East Conyers/West Conyers/Panola Road to Downtown,3
+410 - Sugarloaf Mills to Lindbergh MARTA Station,GRTA,410,Sugarloaf mills - Lindbergh MARTA Station,3
+408 - Johns Creek to Doraville,GRTA,408,Johns Creek to Doraville,3
+416 - Dacula to Downtown,GRTA,416,Dacula - Downtown,3
+401 - Cumming to Perimeter,GRTA,401,Cumming - Perimeter,3
+490 - Canton/Woodstock to Downtown,GRTA,490,Canton/Woodstock - Downtown,3
+441 - Jonesboro to Downtown/Midtown,GRTA,441,Jonesboro - Downtown/Midtown,3
+432 - BrandsMart/Stockbridge to Downtown,GRTA,432,BrandsMart/Stockbridge - Downtown,3
+414 - Ham. Mill/Mall of GA/Sugarloaf Mills to Mid ,GRTA,414,Hamilton Mill/Mall of Georgia/Sugarloaf Mills - Midtown,3
+413 - Hamilton Mill/Mall of Georgia to Downtown,GRTA,413,Hamilton Mill/Mall of Georgia - Downtown,3
+431 - BrandsMart/Stockbridge to Midtown,GRTA,431,BrandsMart/Stockbridge - Midtown,3
+453 - Newnan/Union City to Downtown/Midtown,GRTA,453,Newnan/Union City - Downtown/Midtown,3
+428 - West Conyers/Panola Road to Perimeter,GRTA,428,West COnyers/Panola Road - Perimeter,3
+419 - Snellville/Hewatt Rd/Stone Mtn to Downtown,GRTA,419,Snellville/Hewatt Road/Stone Mountain - Downtown,3
+423 - E Conyers/W Conyers/Panola Road to Midtown,GRTA,423,East Conyers/West Conyers/Panola Road - Midtown,3
+483 - Woodstock/Town Center(Big Shanty) to Midtown,GRTA,483,Woodstock/Town Center (Big Shanty) - Midtown,3

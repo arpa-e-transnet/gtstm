@@ -1,0 +1,328 @@
+route_id,service_id,trip_id,direction_id,block_id,shape_id
+Cumming to Downtown,A,400 - Cumming - 1540_20160909_99991231_20160906_99991231_2,0,,Downtown to Cumming (PM)_Aug  9 2016  4:29:51:140PM
+Cumming to Downtown,A,400 - Cumming - 1610_Aug  4 2016  2:25:46:013PM_20160909_99991231_20160906_99991231_2,0,40052,Downtown to Cumming (PM)_Aug  9 2016  4:29:51:140PM
+Cumming to Downtown,A,400 - Cumming - 1710_20160909_99991231_20160906_99991231_2,0,,Downtown to Cumming (PM)_Aug  9 2016  4:29:51:140PM
+Cumming to Downtown,A,400 - Downtown - 0540_20160909_99991231_20160906_99991231_2,0,40001,Cumming to Downtown (AM)
+Cumming to Downtown,A,400 - Downtown - 0630_20160909_99991231_20160906_99991231_2,0,40002,Cumming to Downtown (AM)
+Cumming to Downtown,A,400 - Downtown - 0700_20160909_99991231_20160906_99991231_2,0,40003,Cumming to Downtown (AM)
+401 - Cumming to Perimeter,A,401 - Cumming - 1630_20160909_99991231_20160906_99991231_2,0,,Perimeter to Cumming (PM)
+401 - Cumming to Perimeter,A,401 - Cumming - 1730_20160909_99991231_20160906_99991231_2,0,,Perimeter to Cumming (PM)
+401 - Cumming to Perimeter,A,401 - Cumming - 1835_20160909_99991231_20160906_99991231_2,0,,Perimeter to Cumming (PM)
+401 - Cumming to Perimeter,A,401 - Perimeter - 0550_20160909_99991231_20160906_99991231_2,0,,Cumming to Perimeter (AM)_Aug 22 2016  9:47:34:447AM
+401 - Cumming to Perimeter,A,401 - Perimeter - 0640_20160909_99991231_20160906_99991231_2,0,,Cumming to Perimeter (AM)_Aug 22 2016  9:47:34:447AM
+401 - Cumming to Perimeter,A,401 - Perimeter - 0725_20160909_99991231_20160906_99991231_2,0,,Cumming to Perimeter (AM)_Aug 22 2016  9:47:34:447AM
+408 - Johns Creek to Doraville,A,408 - Doraville - 0700_20160909_99991231_20160906_99991231_2,0,,Johns Creek to Doraville (AM)_Jul 27 2016 12:00:37:277PM
+408 - Johns Creek to Doraville,A,408 - Doraville - 0800_20160909_99991231_20160906_99991231_2,0,,Johns Creek to Doraville (AM)_Jul 27 2016 12:00:37:277PM
+408 - Johns Creek to Doraville,A,408 - Doraville - 1605_20160909_99991231_20160906_99991231_2,0,,Johns Creek to Doraville (PM)_Jul 27 2016 11:58:35:250AM
+408 - Johns Creek to Doraville,A,408 - Doraville - 1705_20160909_99991231_20160906_99991231_2,0,,Johns Creek to Doraville (PM)_Jul 27 2016 11:58:35:250AM
+408 - Johns Creek to Doraville,A,408 - Doraville - 1820_20160909_99991231_20160906_99991231_2,0,,Johns Creek to Doraville (PM)_Jul 27 2016 11:58:35:250AM
+408 - Johns Creek to Doraville,A,408 - Johns Creek - 0610_20160909_99991231_20160906_99991231_2,0,408-1,Doraville to Johns Creek (AM)
+408 - Johns Creek to Doraville,A,408 - Johns Creek - 0705_20160909_99991231_20160906_99991231_2,0,,Doraville to Johns Creek (AM)
+408 - Johns Creek to Doraville,A,408 - Johns Creek - 0800_20160909_99991231_20160906_99991231_2,0,,Doraville to Johns Creek (AM)
+408 - Johns Creek to Doraville,A,408 - Johns Creek - 1720_20160909_99991231_20160906_99991231_2,0,,Doraville to Johns Creek (PM)_Jul 27 2016 12:11:31:853PM
+408 - Johns Creek to Doraville,A,408 - Johns Creek - 1820_20160909_99991231_20160906_99991231_2,0,,Doraville to Johns Creek (PM)_Jul 27 2016 12:11:31:853PM
+410 - Sugarloaf Mills to Lindbergh MARTA Station,A,410 - Lindbergh - 0610_20160909_99991231_20160907_99991231_2,0,,Sugarloaf Mills to Lindbergh MARTA_Jul 27 2016 11:47:11:167AM
+410 - Sugarloaf Mills to Lindbergh MARTA Station,A,410 - Lindbergh - 0640_20160909_99991231_20160907_99991231_2,0,,Sugarloaf Mills to Lindbergh MARTA_Jul 27 2016 11:47:11:167AM
+410 - Sugarloaf Mills to Lindbergh MARTA Station,A,410 - Lindbergh - 0710_20160909_99991231_20160907_99991231_2,0,,Sugarloaf Mills to Lindbergh MARTA_Jul 27 2016 11:47:11:167AM
+410 - Sugarloaf Mills to Lindbergh MARTA Station,A,410 - Lindbergh - 0740_20160909_99991231_20160907_99991231_2,0,,Sugarloaf Mills to Lindbergh MARTA_Jul 27 2016 11:47:11:167AM
+410 - Sugarloaf Mills to Lindbergh MARTA Station,A,410 - Sugarloaf Mills - 1540_20160909_99991231_20160907_99991231_2,0,,Lindbergh MARTA to Sugarloaf Mills
+410 - Sugarloaf Mills to Lindbergh MARTA Station,A,410 - Sugarloaf Mills - 1640_20160909_99991231_20160907_99991231_2,0,410-52,Lindbergh MARTA to Sugarloaf Mills
+410 - Sugarloaf Mills to Lindbergh MARTA Station,A,410 - Sugarloaf Mills - 1710_20160909_99991231_20160907_99991231_2,0,,Lindbergh MARTA to Sugarloaf Mills
+410 - Sugarloaf Mills to Lindbergh MARTA Station,A,410 - Sugarloaf Mills - 1810_20160909_99991231_20160907_99991231_2,0,,Lindbergh MARTA to Sugarloaf Mills
+411 - Hamilton Mill/Mall of Georgia to Midtown,A,411 - Mall of GA/Hamilton Mill - 1600_20160909_99991231_20160906_99991231_2,0,,Midtown to Mall of Georgia/Hamilton Mill
+411 - Hamilton Mill/Mall of Georgia to Midtown,A,411 - Mall of GA/Hamilton Mill - 1630_20160909_99991231_20160906_99991231_2,0,,Midtown to Mall of Georgia/Hamilton Mill
+411 - Hamilton Mill/Mall of Georgia to Midtown,A,411 - Mall of GA/Hamilton Mill - 1650_20160909_99991231_20160906_99991231_2,0,,Midtown to Mall of Georgia/Hamilton Mill
+411 - Hamilton Mill/Mall of Georgia to Midtown,A,411 - Mall of GA/Hamilton Mill - 1710_20160909_99991231_20160906_99991231_2,0,,Midtown to Mall of Georgia/Hamilton Mill
+411 - Hamilton Mill/Mall of Georgia to Midtown,A,411 - Mall of GA/Hamilton Mill - 1730_20160909_99991231_20160906_99991231_2,0,,Midtown to Mall of Georgia/Hamilton Mill
+411 - Hamilton Mill/Mall of Georgia to Midtown,A,411 - Midtown - 0540_20160909_99991231_20160906_99991231_2,0,,Hamilton Mill/Mall of Georgia to Midtown (AM)_Jul 27 2016  2:39:27:597PM
+411 - Hamilton Mill/Mall of Georgia to Midtown,A,411 - Midtown - 0600_20160909_99991231_20160906_99991231_2,0,,Hamilton Mill/Mall of Georgia to Midtown (AM)_Jul 27 2016  2:39:27:597PM
+411 - Hamilton Mill/Mall of Georgia to Midtown,A,411 - Midtown - 0630_20160909_99991231_20160906_99991231_2,0,,Hamilton Mill/Mall of Georgia to Midtown (AM)_Jul 27 2016  2:39:27:597PM
+411 - Hamilton Mill/Mall of Georgia to Midtown,A,411 - Midtown - 0650_20160909_99991231_20160906_99991231_2,0,,Hamilton Mill/Mall of Georgia to Midtown (AM)_Jul 27 2016  2:39:27:597PM
+411 - Hamilton Mill/Mall of Georgia to Midtown,A,411 - Midtown - 0710_20160909_99991231_20160906_99991231_2,0,,Hamilton Mill/Mall of Georgia to Midtown (AM)_Jul 27 2016  2:39:27:597PM
+411 - Hamilton Mill/Mall of Georgia to Midtown,A,411 - Midtown - 0740_20160909_99991231_20160906_99991231_2,0,,Hamilton Mill/Mall of Georgia to Midtown (AM)_Jul 27 2016  2:39:27:597PM
+412 - Sugarloaf Mills to Midtown,A,412 - Midtown - 0555_20160909_99991231_20160907_99991231_2,0,,Sugarloaf Mills to Midtown (AM)
+412 - Sugarloaf Mills to Midtown,A,412 - Midtown - 0625_20160909_99991231_20160907_99991231_2,0,,Sugarloaf Mills to Midtown (AM)
+412 - Sugarloaf Mills to Midtown,A,412 - Midtown - 0655_20160909_99991231_20160907_99991231_2,0,,Sugarloaf Mills to Midtown (AM)
+412 - Sugarloaf Mills to Midtown,A,412 - Midtown - 0725_20160909_99991231_20160907_99991231_2,0,,Sugarloaf Mills to Midtown (AM)
+412 - Sugarloaf Mills to Midtown,A,412 - Midtown - 0755_20160909_99991231_20160907_99991231_2,0,,Sugarloaf Mills to Midtown (AM)
+412 - Sugarloaf Mills to Midtown,A,412 - Sugarloaf Mills - 1550_20160909_99991231_20160907_99991231_2,0,,Midtown to Sugarloaf Mills (PM)
+412 - Sugarloaf Mills to Midtown,A,412 - Sugarloaf Mills - 1620_20160909_99991231_20160907_99991231_2,0,,Midtown to Sugarloaf Mills (PM)
+412 - Sugarloaf Mills to Midtown,A,412 - Sugarloaf Mills - 1640_20160909_99991231_20160907_99991231_2,0,,Midtown to Sugarloaf Mills (PM)
+412 - Sugarloaf Mills to Midtown,A,412 - Sugarloaf Mills - 1700_20160909_99991231_20160907_99991231_2,0,,Midtown to Sugarloaf Mills (PM)
+412 - Sugarloaf Mills to Midtown,A,412 - Sugarloaf Mills - 1720_20160909_99991231_20160907_99991231_2,0,,Midtown to Sugarloaf Mills (PM)
+412 - Sugarloaf Mills to Midtown,A,412 - Sugarloaf Mills - 1750_20160909_99991231_20160907_99991231_2,0,,Midtown to Sugarloaf Mills (PM)
+413 - Hamilton Mill/Mall of Georgia to Downtown,A,413 - Downtown - 0545_20160909_99991231_20160906_99991231_2,0,,Hamilton Mill/Mall of Georgia to Downtown (AM)_Aug  9 2016  3:41:39:237PM
+413 - Hamilton Mill/Mall of Georgia to Downtown,A,413 - Downtown - 0605_20160909_99991231_20160906_99991231_2,0,,Hamilton Mill/Mall of Georgia to Downtown (AM)_Aug  9 2016  3:41:39:237PM
+413 - Hamilton Mill/Mall of Georgia to Downtown,A,413 - Downtown - 0635_20160909_99991231_20160906_99991231_2,0,,Hamilton Mill/Mall of Georgia to Downtown (AM)_Aug  9 2016  3:41:39:237PM
+413 - Hamilton Mill/Mall of Georgia to Downtown,A,413 - Downtown - 0705_20160909_99991231_20160906_99991231_2,0,,Hamilton Mill/Mall of Georgia to Downtown (AM)_Aug  9 2016  3:41:39:237PM
+413 - Hamilton Mill/Mall of Georgia to Downtown,A,413 - Downtown - 0730_20160909_99991231_20160906_99991231_2,0,,Hamilton Mill/Mall of Georgia to Downtown (AM)_Aug  9 2016  3:41:39:237PM
+413 - Hamilton Mill/Mall of Georgia to Downtown,A,413 - Mall of GA/Hamilton Mill - 1310_20160909_99991231_20160906_99991231_2,0,,Downtown to Mall of Georgia/Hamilton Mill (PM)
+413 - Hamilton Mill/Mall of Georgia to Downtown,A,413 - Mall of GA/Hamilton Mill - 1340_20160909_99991231_20160906_99991231_2,0,,Downtown to Mall of Georgia/Hamilton Mill (PM)
+413 - Hamilton Mill/Mall of Georgia to Downtown,A,413 - Mall of GA/Hamilton Mill - 1610_20160909_99991231_20160906_99991231_2,0,,Downtown to Mall of Georgia/Hamilton Mill (PM)
+413 - Hamilton Mill/Mall of Georgia to Downtown,A,413 - Mall of GA/Hamilton Mill - 1640_20160909_99991231_20160906_99991231_2,0,,Downtown to Mall of Georgia/Hamilton Mill (PM)
+413 - Hamilton Mill/Mall of Georgia to Downtown,A,413 - Mall of GA/Hamilton Mill - 1710_20160909_99991231_20160906_99991231_2,0,,Downtown to Mall of Georgia/Hamilton Mill (PM)
+413 - Hamilton Mill/Mall of Georgia to Downtown,A,413 - Mall of GA/Hamilton Mill - 1750_20160909_99991231_20160906_99991231_2,0,,Downtown to Mall of Georgia/Hamilton Mill (PM)
+414 - Ham. Mill/Mall of GA/Sugarloaf Mills to Mid ,A,414 - Midtown - 0500_20160909_99991231_20160908_99991231_2,0,,Ham. Mill/Mall of GA/Sugarloaf Mills to Midtown (AM)
+414 - Ham. Mill/Mall of GA/Sugarloaf Mills to Mid ,A,414 - Midtown - 0800_20160909_99991231_20160908_99991231_2,0,,Ham. Mill/Mall of GA/Sugarloaf Mills to Midtown (AM)
+414 - Ham. Mill/Mall of GA/Sugarloaf Mills to Mid ,A,414 - Midtown - 0830_20160909_99991231_20160908_99991231_2,0,,Ham. Mill/Mall of GA/Sugarloaf Mills to Midtown (AM)
+414 - Ham. Mill/Mall of GA/Sugarloaf Mills to Mid ,A,414 - Sugarloaf Mills/Mall of GA/Hamilton Mill - 1500_20160909_99991231_20160907_99991231_2,0,,Midtown to Sugarloaf Mills/Mall of GA/Ham. Mill (PM)
+414 - Ham. Mill/Mall of GA/Sugarloaf Mills to Mid ,A,414 - Sugarloaf Mills/Mall of GA/Hamilton Mill - 1530_20160909_99991231_20160907_99991231_2,0,,Midtown to Sugarloaf Mills/Mall of GA/Ham. Mill (PM)
+414 - Ham. Mill/Mall of GA/Sugarloaf Mills to Mid ,A,414 - Sugarloaf Mills/Mall of GA/Hamilton Mill - 1810_20160909_99991231_20160907_99991231_2,0,,Midtown to Sugarloaf Mills/Mall of GA/Ham. Mill (PM)
+414 - Ham. Mill/Mall of GA/Sugarloaf Mills to Mid ,A,414 - Sugarloaf Mills/Mall of GA/Hamilton Mill - 1855_20160909_99991231_20160907_99991231_2,0,,Midtown to Sugarloaf Mills/Mall of GA/Ham. Mill (PM)
+416 - Dacula to Downtown,A,416 - Dacula - 1515_20160909_99991231_20160906_99991231_2,0,,Downtown to Dacula (PM)_Aug  9 2016  4:30:40:140PM
+416 - Dacula to Downtown,A,416 - Dacula - 1545_20160909_99991231_20160906_99991231_2,0,,Downtown to Dacula (PM)_Aug  9 2016  4:30:40:140PM
+416 - Dacula to Downtown,A,416 - Dacula - 1615_20160909_99991231_20160906_99991231_2,0,41653,Downtown to Dacula (PM)_Aug  9 2016  4:30:40:140PM
+416 - Dacula to Downtown,A,416 - Dacula - 1645_20160909_99991231_20160906_99991231_2,0,,Downtown to Dacula (PM)_Aug  9 2016  4:30:40:140PM
+416 - Dacula to Downtown,A,416 - Dacula - 1715_20160909_99991231_20160906_99991231_2,0,,Downtown to Dacula (PM)_Aug  9 2016  4:30:40:140PM
+416 - Dacula to Downtown,A,416 - Dacula - 1805_20160909_99991231_20160906_99991231_2,0,,Downtown to Dacula (PM)_Aug  9 2016  4:30:40:140PM
+416 - Dacula to Downtown,A,416 - Downtown - 0515_20160909_99991231_20160906_99991231_2,0,,Dacula to Downtown (AM)
+416 - Dacula to Downtown,A,416 - Downtown - 0545_20160909_99991231_20160906_99991231_2,0,,Dacula to Downtown (AM)
+416 - Dacula to Downtown,A,416 - Downtown - 0610_20160909_99991231_20160906_99991231_2,0,,Dacula to Downtown (AM)
+416 - Dacula to Downtown,A,416 - Downtown - 0630_20160909_99991231_20160906_99991231_2,0,,Dacula to Downtown (AM)
+416 - Dacula to Downtown,A,416 - Downtown - 0700_20160909_99991231_20160906_99991231_2,0,,Dacula to Downtown (AM)
+416 - Dacula to Downtown,A,416 - Downtown - 0730_20160909_99991231_20160906_99991231_2,0,,Dacula to Downtown (AM)
+419 - Snellville/Hewatt Rd/Stone Mtn to Downtown,A,419 - Downtown - 0505_20160909_99991231_20160906_99991231_2,0,,Snellville/Hewatt Rd/Stone Mtn to Downtown (AM)
+419 - Snellville/Hewatt Rd/Stone Mtn to Downtown,A,419 - Downtown - 0530_20160909_99991231_20160906_99991231_2,0,,Snellville/Hewatt Rd/Stone Mtn to Downtown (AM)
+419 - Snellville/Hewatt Rd/Stone Mtn to Downtown,A,419 - Downtown - 0550_20160909_99991231_20160906_99991231_2,0,,Snellville/Hewatt Rd/Stone Mtn to Downtown (AM)
+419 - Snellville/Hewatt Rd/Stone Mtn to Downtown,A,419 - Downtown - 0610_20160909_99991231_20160906_99991231_2,0,,Snellville/Hewatt Rd/Stone Mtn to Downtown (AM)
+419 - Snellville/Hewatt Rd/Stone Mtn to Downtown,A,419 - Downtown - 0625_20160909_99991231_20160906_99991231_2,0,,Snellville/Hewatt Rd/Stone Mtn to Downtown (AM)
+419 - Snellville/Hewatt Rd/Stone Mtn to Downtown,A,419 - Downtown - 0640_20160909_99991231_20160906_99991231_2,0,,Snellville/Hewatt Rd/Stone Mtn to Downtown (AM)
+419 - Snellville/Hewatt Rd/Stone Mtn to Downtown,A,419 - Downtown - 0655_20160909_99991231_20160906_99991231_2,0,,Snellville/Hewatt Rd/Stone Mtn to Downtown (AM)
+419 - Snellville/Hewatt Rd/Stone Mtn to Downtown,A,419 - Downtown - 0715_20160909_99991231_20160906_99991231_2,0,,Snellville/Hewatt Rd/Stone Mtn to Downtown (AM)
+419 - Snellville/Hewatt Rd/Stone Mtn to Downtown,A,419 - Downtown - 0740_20160909_99991231_20160906_99991231_2,0,,Snellville/Hewatt Rd/Stone Mtn to Downtown (AM)
+419 - Snellville/Hewatt Rd/Stone Mtn to Downtown,A,419 - Downtown - 0810_20160909_99991231_20160906_99991231_2,0,,Snellville/Hewatt Rd/Stone Mtn to Downtown (AM)
+419 - Snellville/Hewatt Rd/Stone Mtn to Downtown,A,419 - Stone Mountain/Hewatt Rd/Snellville - 1505_20160909_99991231_20160906_99991231_2,0,,Downtown to Stone Mtn/Hewatt Rd/Snellville (PM)
+419 - Snellville/Hewatt Rd/Stone Mtn to Downtown,A,419 - Stone Mtn/Hewatt Rd/Snellville - 1535_20160909_99991231_20160906_99991231_2,0,,Downtown to Stone Mtn/Hewatt Rd/Snellville (PM)
+419 - Snellville/Hewatt Rd/Stone Mtn to Downtown,A,419 - Stone Mtn/Hewatt Rd/Snellville - 1555_20160909_99991231_20160906_99991231_2,0,,Downtown to Stone Mtn/Hewatt Rd/Snellville (PM)
+419 - Snellville/Hewatt Rd/Stone Mtn to Downtown,A,419 - Stone Mtn/Hewatt Rd/Snellville - 1615_20160909_99991231_20160906_99991231_2,0,,Downtown to Stone Mtn/Hewatt Rd/Snellville (PM)
+419 - Snellville/Hewatt Rd/Stone Mtn to Downtown,A,419 - Stone Mtn/Hewatt Rd/Snellville - 1630_20160909_99991231_20160906_99991231_2,0,,Downtown to Stone Mtn/Hewatt Rd/Snellville (PM)
+419 - Snellville/Hewatt Rd/Stone Mtn to Downtown,A,419 - Stone Mtn/Hewatt Rd/Snellville - 1645_20160909_99991231_20160906_99991231_2,0,,Downtown to Stone Mtn/Hewatt Rd/Snellville (PM)
+419 - Snellville/Hewatt Rd/Stone Mtn to Downtown,A,419 - Stone Mtn/Hewatt Rd/Snellville - 1700_20160909_99991231_20160906_99991231_2,0,,Downtown to Stone Mtn/Hewatt Rd/Snellville (PM)
+419 - Snellville/Hewatt Rd/Stone Mtn to Downtown,A,419 - Stone Mtn/Hewatt Rd/Snellville - 1720_20160909_99991231_20160906_99991231_2,0,,Downtown to Stone Mtn/Hewatt Rd/Snellville (PM)
+419 - Snellville/Hewatt Rd/Stone Mtn to Downtown,A,419 - Stone Mtn/Hewatt Rd/Snellville - 1740_20160909_99991231_20160906_99991231_2,0,,Downtown to Stone Mtn/Hewatt Rd/Snellville (PM)
+419 - Snellville/Hewatt Rd/Stone Mtn to Downtown,A,419 - Stone Mtn/Hewatt Rd/Snellville - 1810_20160909_99991231_20160906_99991231_2,0,,Downtown to Stone Mtn/Hewatt Rd/Snellville (PM)
+423 - E Conyers/W Conyers/Panola Road to Midtown,A,423 - Midtown - 0510_20160909_99991231_20160906_99991231_2,0,,East Conyers/West Conyers/Panola Road to Midtown (AM)_Jul 28 2016  9:41:03:687AM
+423 - E Conyers/W Conyers/Panola Road to Midtown,A,423 - Midtown - 0540_20160909_99991231_20160906_99991231_2,0,,East Conyers/West Conyers/Panola Road to Midtown (AM)_Jul 28 2016  9:41:03:687AM
+423 - E Conyers/W Conyers/Panola Road to Midtown,A,423 - Midtown - 0600_20160909_99991231_20160906_99991231_2,0,,East Conyers/West Conyers/Panola Road to Midtown (AM)_Jul 28 2016  9:41:03:687AM
+423 - E Conyers/W Conyers/Panola Road to Midtown,A,423 - Midtown - 0615_20160909_99991231_20160906_99991231_2,0,,East Conyers/West Conyers/Panola Road to Midtown (AM)_Jul 28 2016  9:41:03:687AM
+423 - E Conyers/W Conyers/Panola Road to Midtown,A,423 - Midtown - 0630_20160909_99991231_20160906_99991231_2,0,,East Conyers/West Conyers/Panola Road to Midtown (AM)_Jul 28 2016  9:41:03:687AM
+423 - E Conyers/W Conyers/Panola Road to Midtown,A,423 - Midtown - 0645_20160909_99991231_20160906_99991231_2,0,,East Conyers/West Conyers/Panola Road to Midtown (AM)_Jul 28 2016  9:41:03:687AM
+423 - E Conyers/W Conyers/Panola Road to Midtown,A,423 - Midtown - 0700_20160909_99991231_20160906_99991231_2,0,,East Conyers/West Conyers/Panola Road to Midtown (AM)_Jul 28 2016  9:41:03:687AM
+423 - E Conyers/W Conyers/Panola Road to Midtown,A,423 - Midtown - 0720_20160909_99991231_20160906_99991231_2,0,,East Conyers/West Conyers/Panola Road to Midtown (AM)_Jul 28 2016  9:41:03:687AM
+423 - E Conyers/W Conyers/Panola Road to Midtown,A,423 - Midtown - 0750_20160909_99991231_20160906_99991231_2,0,,East Conyers/West Conyers/Panola Road to Midtown (AM)_Jul 28 2016  9:41:03:687AM
+423 - E Conyers/W Conyers/Panola Road to Midtown,A,423 - Panola Rd/West Conyers/East Conyers - 1545_20160909_99991231_20160906_99991231_2,0,,Midtown to Panola Road/West Conyers/East Conyers (PM)
+423 - E Conyers/W Conyers/Panola Road to Midtown,A,423 - Panola Rd/West Conyers/East Conyers - 1615_20160909_99991231_20160906_99991231_2,0,,Midtown to Panola Road/West Conyers/East Conyers (PM)
+423 - E Conyers/W Conyers/Panola Road to Midtown,A,423 - Panola Rd/West Conyers/East Conyers - 1630_20160909_99991231_20160906_99991231_2,0,,Midtown to Panola Road/West Conyers/East Conyers (PM)
+423 - E Conyers/W Conyers/Panola Road to Midtown,A,423 - Panola Rd/West Conyers/East Conyers - 1645_20160909_99991231_20160906_99991231_2,0,,Midtown to Panola Road/West Conyers/East Conyers (PM)
+423 - E Conyers/W Conyers/Panola Road to Midtown,A,423 - Panola Rd/West Conyers/East Conyers - 1700_20160909_99991231_20160906_99991231_2,0,,Midtown to Panola Road/West Conyers/East Conyers (PM)
+423 - E Conyers/W Conyers/Panola Road to Midtown,A,423 - Panola Rd/West Conyers/East Conyers - 1715_20160909_99991231_20160906_99991231_2,0,,Midtown to Panola Road/West Conyers/East Conyers (PM)
+423 - E Conyers/W Conyers/Panola Road to Midtown,A,423 - Panola Rd/West Conyers/East Conyers - 1745_20160909_99991231_20160906_99991231_2,0,,Midtown to Panola Road/West Conyers/East Conyers (PM)
+423 - E Conyers/W Conyers/Panola Road to Midtown,A,423 - Panola Rd/West Conyers/East Conyers - 1830_20160909_99991231_20160906_99991231_2,0,,Midtown to Panola Road/West Conyers/East Conyers (PM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - E Conyers to Downtown - 0600_20160909_99991231_20160906_99991231_2,0,,East Conyers to Downtown (AM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - E Conyers to Downtown - 0630_20160909_99991231_20160906_99991231_2,0,,East Conyers to Downtown (AM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - E Conyers to Downtown - 0645_20160909_99991231_20160906_99991231_2,0,,East Conyers to Downtown (AM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - E Conyers to Downtown - 0700_20160909_99991231_20160906_99991231_2,0,,East Conyers to Downtown (AM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - E Conyers to Downtown - 0715_20160909_99991231_20160906_99991231_2,0,,East Conyers to Downtown (AM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - E Conyers/W Conyers/Panola Rd - 0500_20160909_99991231_20160906_99991231_2,0,,East Conyers/West Cnyers/Panola Road to Downtown (AM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - E Conyers/W Conyers/Panola Rd - 0525_20160909_99991231_20160906_99991231_2,0,,East Conyers/West Cnyers/Panola Road to Downtown (AM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - E Conyers/W Conyers/Panola Rd - 0730_20160909_99991231_20160906_99991231_2,0,,East Conyers/West Cnyers/Panola Road to Downtown (AM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - Panola Rd to Downtown - 0620_20160909_99991231_20160906_99991231_2,0,,Panola Road  to Downtown (AM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - Panola Rd to Downtown - 0645_20160909_99991231_20160906_99991231_2,0,,Panola Road  to Downtown (AM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - Panola Rd to Downtown - 0710_20160909_99991231_20160906_99991231_2,0,,Panola Road  to Downtown (AM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1500_20160909_99991231_20160906_99991231_2,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1520_20160909_99991231_20160906_99991231_2,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1540_20160909_99991231_20160906_99991231_2,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1555_20160909_99991231_20160906_99991231_2,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1605_20160909_99991231_20160906_99991231_2,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1615_20160909_99991231_20160906_99991231_2,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1625_20160909_99991231_20160906_99991231_2,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1635_20160909_99991231_20160906_99991231_2,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1645_20160909_99991231_20160906_99991231_2,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1655_20160909_99991231_20160906_99991231_2,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1705_20160909_99991231_20160906_99991231_2,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1720_20160909_99991231_20160906_99991231_2,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1740_20160909_99991231_20160906_99991231_2,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1810_20160909_99991231_20160906_99991231_2,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - W Conyers to Downtown - 0615_20160909_99991231_20160906_99991231_2,0,,West Conyers to Downtown (AM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - W Conyers to Downtown - 0640_20160909_99991231_20160906_99991231_2,0,,West Conyers to Downtown (AM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - W Conyers to Downtown - 0705_20160909_99991231_20160906_99991231_2,0,,West Conyers to Downtown (AM)
+426 - E Conyers/W Conyers/Panola Road to Downtown,A,426 - W Conyers/Panola Rd to Downtown - 0720_20160909_99991231_20160906_99991231_2,0,,West Conyers/Panola Road to Downtown (AM)_Aug  9 2016 11:19:21:383AM
+428 - West Conyers/Panola Road to Perimeter,A,428 - Panola Rd/W Conyers - 1540_20160909_99991231_20160906_99991231_2,0,,Perimeter to Panola Road/West Conyers (PM)
+428 - West Conyers/Panola Road to Perimeter,A,428 - Panola Rd/W Conyers - 1615_20160909_99991231_20160906_99991231_2,0,,Perimeter to Panola Road/West Conyers (PM)
+428 - West Conyers/Panola Road to Perimeter,A,428 - Panola Rd/W Conyers - 1715_20160909_99991231_20160906_99991231_2,0,,Perimeter to Panola Road/West Conyers (PM)
+428 - West Conyers/Panola Road to Perimeter,A,428 - Panola Rd/W Conyers - 1820_20160909_99991231_20160906_99991231_2,0,,Perimeter to Panola Road/West Conyers (PM)
+428 - West Conyers/Panola Road to Perimeter,A,428 - Perimeter - 0505_20160909_99991231_20160906_99991231_2,0,,West Conyers/Panola Road to Perimeter (AM)
+428 - West Conyers/Panola Road to Perimeter,A,428 - Perimeter - 0540_20160909_99991231_20160906_99991231_2,0,,West Conyers/Panola Road to Perimeter (AM)
+428 - West Conyers/Panola Road to Perimeter,A,428 - Perimeter - 0625_20160909_99991231_20160906_99991231_2,0,,West Conyers/Panola Road to Perimeter (AM)
+428 - West Conyers/Panola Road to Perimeter,A,428 - Perimeter - 0715_20160909_99991231_20160906_99991231_2,0,,West Conyers/Panola Road to Perimeter (AM)
+430 - McDonough to Downtown,A,430 - Downtown - 0520_20160909_99991231_20160906_99991231_2,0,,McDonough to Downtown (AM)
+430 - McDonough to Downtown,A,430 - Downtown - 0545_20160909_99991231_20160906_99991231_2,0,,McDonough to Downtown (AM)
+430 - McDonough to Downtown,A,430 - Downtown - 0610_20160909_99991231_20160906_99991231_2,0,,McDonough to Downtown (AM)
+430 - McDonough to Downtown,A,430 - Downtown - 0630_20160909_99991231_20160906_99991231_2,0,,McDonough to Downtown (AM)
+430 - McDonough to Downtown,A,430 - Downtown - 0650_20160909_99991231_20160906_99991231_2,0,,McDonough to Downtown (AM)
+430 - McDonough to Downtown,A,430 - Downtown - 0710_20160909_99991231_20160906_99991231_2,0,,McDonough to Downtown (AM)
+430 - McDonough to Downtown,A,430 - Downtown - 0730_20160909_99991231_20160906_99991231_2,0,,McDonough to Downtown (AM)
+430 - McDonough to Downtown,A,430 - Downtown - 0800_20160909_99991231_20160906_99991231_2,0,,McDonough to Downtown (AM)
+430 - McDonough to Downtown,A,430 - McDonough - 1455_20160909_99991231_20160906_99991231_2,0,,Downtown to McDonough (PM)
+430 - McDonough to Downtown,A,430 - McDonough - 1530_20160909_99991231_20160906_99991231_2,0,,Downtown to McDonough (PM)
+430 - McDonough to Downtown,A,430 - McDonough - 1600_20160909_99991231_20160906_99991231_2,0,,Downtown to McDonough (PM)
+430 - McDonough to Downtown,A,430 - McDonough - 1620_20160909_99991231_20160906_99991231_2,0,,Downtown to McDonough (PM)
+430 - McDonough to Downtown,A,430 - McDonough - 1640_20160909_99991231_20160906_99991231_2,0,,Downtown to McDonough (PM)
+430 - McDonough to Downtown,A,430 - McDonough - 1700_20160909_99991231_20160906_99991231_2,0,,Downtown to McDonough (PM)
+430 - McDonough to Downtown,A,430 - McDonough - 1735_20160909_99991231_20160906_99991231_2,0,,Downtown to McDonough (PM)
+431 - BrandsMart/Stockbridge to Midtown,A,431 - BrandsMart/Stockbridge - 1500_20160909_99991231_20160906_99991231_2,0,,Midtown to BrandsMart/Stockbridge (PM)
+431 - BrandsMart/Stockbridge to Midtown,A,431 - BrandsMart/Stockbridge - 1530_Aug 16 2016  3:06:09:240PM_20160909_99991231_20160906_99991231_2,0,,Midtown to BrandsMart/Stockbridge (PM)
+431 - BrandsMart/Stockbridge to Midtown,A,431 - BrandsMart/Stockbridge - 1600_20160909_99991231_20160906_99991231_2,0,,Midtown to BrandsMart/Stockbridge (PM)
+431 - BrandsMart/Stockbridge to Midtown,A,431 - BrandsMart/Stockbridge - 1620_20160909_99991231_20160906_99991231_2,0,,Midtown to BrandsMart/Stockbridge (PM)
+431 - BrandsMart/Stockbridge to Midtown,A,431 - BrandsMart/Stockbridge - 1640_20160909_99991231_20160906_99991231_2,0,,Midtown to BrandsMart/Stockbridge (PM)
+431 - BrandsMart/Stockbridge to Midtown,A,431 - BrandsMart/Stockbridge - 1700_20160909_99991231_20160906_99991231_2,0,,Midtown to BrandsMart/Stockbridge (PM)
+431 - BrandsMart/Stockbridge to Midtown,A,431 - BrandsMart/Stockbridge - 1730_20160909_99991231_20160906_99991231_2,0,,Midtown to BrandsMart/Stockbridge (PM)
+431 - BrandsMart/Stockbridge to Midtown,A,431 - Midtown - 0530_20160909_99991231_20160906_99991231_2,0,,BrandsMart/Stockbridge to Midtown (AM)
+431 - BrandsMart/Stockbridge to Midtown,A,431 - Midtown - 0600_20160909_99991231_20160906_99991231_2,0,,BrandsMart/Stockbridge to Midtown (AM)
+431 - BrandsMart/Stockbridge to Midtown,A,431 - Midtown - 0625_20160909_99991231_20160906_99991231_2,0,,BrandsMart/Stockbridge to Midtown (AM)
+431 - BrandsMart/Stockbridge to Midtown,A,431 - Midtown - 0645_20160909_99991231_20160906_99991231_2,0,,BrandsMart/Stockbridge to Midtown (AM)
+431 - BrandsMart/Stockbridge to Midtown,A,431 - Midtown - 0715_20160909_99991231_20160906_99991231_2,0,,BrandsMart/Stockbridge to Midtown (AM)
+431 - BrandsMart/Stockbridge to Midtown,A,431 - Midtown - 0745_20160909_99991231_20160906_99991231_2,0,,BrandsMart/Stockbridge to Midtown (AM)
+431 - BrandsMart/Stockbridge to Midtown,A,431 - Midtown - 0815_20160909_99991231_20160906_99991231_2,0,,BrandsMart/Stockbridge to Midtown (AM)
+432 - BrandsMart/Stockbridge to Downtown,A,432 - BrandsMart/Stockbridge - 1500_20160909_99991231_20160906_99991231_2,0,,Downtown to BrandsMart/Stockbridge (PM)
+432 - BrandsMart/Stockbridge to Downtown,A,432 - BrandsMart/Stockbridge - 1530_20160909_99991231_20160906_99991231_2,0,,Downtown to BrandsMart/Stockbridge (PM)
+432 - BrandsMart/Stockbridge to Downtown,A,432 - BrandsMart/Stockbridge - 1600_20160909_99991231_20160906_99991231_2,0,,Downtown to BrandsMart/Stockbridge (PM)
+432 - BrandsMart/Stockbridge to Downtown,A,432 - BrandsMart/Stockbridge - 1620_20160909_99991231_20160906_99991231_2,0,,Downtown to BrandsMart/Stockbridge (PM)
+432 - BrandsMart/Stockbridge to Downtown,A,432 - BrandsMart/Stockbridge - 1630_20160909_99991231_20160906_99991231_2,0,,Downtown to BrandsMart/Stockbridge (PM)
+432 - BrandsMart/Stockbridge to Downtown,A,432 - BrandsMart/Stockbridge - 1640_20160909_99991231_20160906_99991231_2,0,,Downtown to BrandsMart/Stockbridge (PM)
+432 - BrandsMart/Stockbridge to Downtown,A,432 - BrandsMart/Stockbridge - 1650_20160909_99991231_20160906_99991231_2,0,,Downtown to BrandsMart/Stockbridge (PM)
+432 - BrandsMart/Stockbridge to Downtown,A,432 - BrandsMart/Stockbridge - 1710_20160909_99991231_20160906_99991231_2,0,,Downtown to BrandsMart/Stockbridge (PM)
+432 - BrandsMart/Stockbridge to Downtown,A,432 - BrandsMart/Stockbridge - 1740_20160909_99991231_20160906_99991231_2,0,,Downtown to BrandsMart/Stockbridge (PM)
+432 - BrandsMart/Stockbridge to Downtown,A,432 - BrandsMart/Stockbridge/McDonough - 1810_20160909_99991231_20160906_99991231_2,0,,Downtown to BrandsMart/Stockbridge/McDonough (PM)
+432 - BrandsMart/Stockbridge to Downtown,A,432 - Downtown - 0530_20160909_99991231_20160906_99991231_2,0,,BrandsMart/Stockbridge to Downtown (AM)
+432 - BrandsMart/Stockbridge to Downtown,A,432 - Downtown - 0550_20160909_99991231_20160906_99991231_2,0,,BrandsMart/Stockbridge to Downtown (AM)
+432 - BrandsMart/Stockbridge to Downtown,A,432 - Downtown - 0610_20160909_99991231_20160906_99991231_2,0,,BrandsMart/Stockbridge to Downtown (AM)
+432 - BrandsMart/Stockbridge to Downtown,A,432 - Downtown - 0630_20160909_99991231_20160906_99991231_2,0,,BrandsMart/Stockbridge to Downtown (AM)
+432 - BrandsMart/Stockbridge to Downtown,A,432 - Downtown - 0645_20160909_99991231_20160906_99991231_2,0,,BrandsMart/Stockbridge to Downtown (AM)
+432 - BrandsMart/Stockbridge to Downtown,A,432 - Downtown - 0700_20160909_99991231_20160906_99991231_2,0,,BrandsMart/Stockbridge to Downtown (AM)
+432 - BrandsMart/Stockbridge to Downtown,A,432 - Downtown - 0715_20160909_99991231_20160906_99991231_2,0,,BrandsMart/Stockbridge to Downtown (AM)
+432 - BrandsMart/Stockbridge to Downtown,A,432 - Downtown - 0735_20160909_99991231_20160906_99991231_2,0,,BrandsMart/Stockbridge to Downtown (AM)
+432 - BrandsMart/Stockbridge to Downtown,A,432 - Downtown - 0800_20160909_99991231_20160906_99991231_2,0,,BrandsMart/Stockbridge to Downtown (AM)
+432 - BrandsMart/Stockbridge to Downtown,A,432 - Downtown - 0830_20160909_99991231_20160906_99991231_2,0,,BrandsMart/Stockbridge to Downtown (AM)
+440 - Hampton/Jonesboro to Downtown/Midtown,A,440 - Downtown/Midtown - 0515_20160909_99991231_20160906_99991231_2,0,,Hampton/Jonesboro to Downtown/Midtown (AM)
+440 - Hampton/Jonesboro to Downtown/Midtown,A,440 - Downtown/Midtown - 0555_20160909_99991231_20160906_99991231_2,0,,Hampton/Jonesboro to Downtown/Midtown (AM)
+440 - Hampton/Jonesboro to Downtown/Midtown,A,440 - Downtown/Midtown - 0625_20160909_99991231_20160906_99991231_2,0,,Hampton/Jonesboro to Downtown/Midtown (AM)
+440 - Hampton/Jonesboro to Downtown/Midtown,A,440 - Downtown/Midtown - 0655_20160909_99991231_20160906_99991231_2,0,,Hampton/Jonesboro to Downtown/Midtown (AM)
+440 - Hampton/Jonesboro to Downtown/Midtown,A,440 - Downtown/Midtown - 0725_20160909_99991231_20160906_99991231_2,0,,Hampton/Jonesboro to Downtown/Midtown (AM)
+440 - Hampton/Jonesboro to Downtown/Midtown,A,440 - Downtown/Midtown - 0800_20160909_99991231_20160906_99991231_2,0,,Hampton/Jonesboro to Downtown/Midtown (AM)
+440 - Hampton/Jonesboro to Downtown/Midtown,A,440 - Jonesboro/Hampton - 1505_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Jonesboro/Hampton (PM)
+440 - Hampton/Jonesboro to Downtown/Midtown,A,440 - Jonesboro/Hampton - 1535_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Jonesboro/Hampton (PM)
+440 - Hampton/Jonesboro to Downtown/Midtown,A,440 - Jonesboro/Hampton - 1605_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Jonesboro/Hampton (PM)
+440 - Hampton/Jonesboro to Downtown/Midtown,A,440 - Jonesboro/Hampton - 1635_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Jonesboro/Hampton (PM)
+440 - Hampton/Jonesboro to Downtown/Midtown,A,440 - Jonesboro/Hampton - 1705_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Jonesboro/Hampton (PM)
+440 - Hampton/Jonesboro to Downtown/Midtown,A,440 - Jonesboro/Hampton - 1735_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Jonesboro/Hampton (PM)
+440 - Hampton/Jonesboro to Downtown/Midtown,A,440 - Jonesboro/Hampton - 1815_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Jonesboro/Hampton (PM)
+441 - Jonesboro to Downtown/Midtown,A,441 - Downtown/Midtown - 0525_20160909_99991231_20160906_99991231_2,0,,Jonesboro to Downtown/Midtown (AM)
+441 - Jonesboro to Downtown/Midtown,A,441 - Downtown/Midtown - 0605_20160909_99991231_20160906_99991231_2,0,,Jonesboro to Downtown/Midtown (AM)
+441 - Jonesboro to Downtown/Midtown,A,441 - Downtown/Midtown - 0635_20160909_99991231_20160906_99991231_2,0,,Jonesboro to Downtown/Midtown (AM)
+441 - Jonesboro to Downtown/Midtown,A,441 - Downtown/Midtown - 0705_20160909_99991231_20160906_99991231_2,0,,Jonesboro to Downtown/Midtown (AM)
+441 - Jonesboro to Downtown/Midtown,A,441 - Downtown/Midtown - 0745_20160909_99991231_20160906_99991231_2,0,,Jonesboro to Downtown/Midtown (AM)
+441 - Jonesboro to Downtown/Midtown,A,441 - Jonesboro - 1305_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Jonesboro (PM)
+441 - Jonesboro to Downtown/Midtown,A,441 - Jonesboro - 1445_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Jonesboro (PM)
+441 - Jonesboro to Downtown/Midtown,A,441 - Jonesboro - 1500_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Jonesboro (PM)
+441 - Jonesboro to Downtown/Midtown,A,441 - Jonesboro - 1620_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Jonesboro (PM)
+441 - Jonesboro to Downtown/Midtown,A,441 - Jonesboro - 1650_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Jonesboro (PM)
+441 - Jonesboro to Downtown/Midtown,A,441 - Jonesboro - 1900_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Jonesboro (PM)
+442 - Riverdale to Downtown,A,442 - Downtown - 0530_20160909_99991231_20160906_99991231_2,0,,Riverdale to Downtown (AM)
+442 - Riverdale to Downtown,A,442 - Downtown - 0620_20160909_99991231_20160906_99991231_2,0,,Riverdale to Downtown (AM)
+442 - Riverdale to Downtown,A,442 - Downtown - 0645_20160909_99991231_20160906_99991231_2,0,,Riverdale to Downtown (AM)
+442 - Riverdale to Downtown,A,442 - Downtown - 0705_20160909_99991231_20160906_99991231_2,0,,Riverdale to Downtown (AM)
+442 - Riverdale to Downtown,A,442 - Downtown - 0800_20160909_99991231_20160906_99991231_2,0,,Riverdale to Downtown (AM)
+442 - Riverdale to Downtown,A,442 - Riverdale - 1530_20160909_99991231_20160906_99991231_2,0,,Downtown to Riverdale (PM)
+442 - Riverdale to Downtown,A,442 - Riverdale - 1600_20160909_99991231_20160906_99991231_2,0,,Downtown to Riverdale (PM)
+442 - Riverdale to Downtown,A,442 - Riverdale - 1630_20160909_99991231_20160906_99991231_2,0,,Downtown to Riverdale (PM)
+442 - Riverdale to Downtown,A,442 - Riverdale - 1700_20160909_99991231_20160906_99991231_2,0,,Downtown to Riverdale (PM)
+442 - Riverdale to Downtown,A,442 - Riverdale - 1800_20160909_99991231_20160906_99991231_2,0,,Downtown to Riverdale (PM)
+453 - Newnan/Union City to Downtown/Midtown,A,453 - Downtown/Midtown - 0530_20160909_99991231_20160906_99991231_2,0,,Newnan/Union City to Downtown/Midtown
+453 - Newnan/Union City to Downtown/Midtown,A,453 - Downtown/Midtown - 0600_20160909_99991231_20160906_99991231_2,0,,Newnan/Union City to Downtown/Midtown
+453 - Newnan/Union City to Downtown/Midtown,A,453 - Downtown/Midtown - 0615_20160909_99991231_20160906_99991231_2,0,,Newnan/Union City to Downtown/Midtown
+453 - Newnan/Union City to Downtown/Midtown,A,453 - Downtown/Midtown - 0630_20160909_99991231_20160906_99991231_2,0,,Newnan/Union City to Downtown/Midtown
+453 - Newnan/Union City to Downtown/Midtown,A,453 - Downtown/Midtown - 0645_20160909_99991231_20160906_99991231_2,0,,Newnan/Union City to Downtown/Midtown
+453 - Newnan/Union City to Downtown/Midtown,A,453 - Downtown/Midtown - 0700_20160909_99991231_20160906_99991231_2,0,,Newnan/Union City to Downtown/Midtown
+453 - Newnan/Union City to Downtown/Midtown,A,453 - Downtown/Midtown - 0730_20160909_99991231_20160906_99991231_2,0,,Newnan/Union City to Downtown/Midtown
+453 - Newnan/Union City to Downtown/Midtown,A,453 - Downtown/Midtown - 0800_20160909_99991231_20160906_99991231_2,0,,Newnan/Union City to Downtown/Midtown
+453 - Newnan/Union City to Downtown/Midtown,A,453 - Union City/Newnan - 1500_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Union City/Newnan (PM)
+453 - Newnan/Union City to Downtown/Midtown,A,453 - Union City/Newnan - 1530_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Union City/Newnan (PM)
+453 - Newnan/Union City to Downtown/Midtown,A,453 - Union City/Newnan - 1600_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Union City/Newnan (PM)
+453 - Newnan/Union City to Downtown/Midtown,A,453 - Union City/Newnan - 1620_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Union City/Newnan (PM)
+453 - Newnan/Union City to Downtown/Midtown,A,453 - Union City/Newnan - 1640_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Union City/Newnan (PM)
+453 - Newnan/Union City to Downtown/Midtown,A,453 - Union City/Newnan - 1700_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Union City/Newnan (PM)
+453 - Newnan/Union City to Downtown/Midtown,A,453 - Union City/Newnan - 1730_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Union City/Newnan (PM)
+453 - Newnan/Union City to Downtown/Midtown,A,453 - Union City/Newnan - 1800_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Union City/Newnan (PM)
+463 - W Douglas/Douglasville to Downtown/Midtown,A,463 - Douglas MMTC/West Douglas - 1500_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Douglasville/West Douglas (PM)
+463 - W Douglas/Douglasville to Downtown/Midtown,A,463 - Douglas MMTC/West Douglas - 1530_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Douglasville/West Douglas (PM)
+463 - W Douglas/Douglasville to Downtown/Midtown,A,463 - Douglas MMTC/West Douglas - 1545_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Douglasville/West Douglas (PM)
+463 - W Douglas/Douglasville to Downtown/Midtown,A,463 - Douglas MMTC/West Douglas - 1557_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Douglasville/West Douglas (PM)
+463 - W Douglas/Douglasville to Downtown/Midtown,A,463 - Douglas MMTC/West Douglas - 1609_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Douglasville/West Douglas (PM)
+463 - W Douglas/Douglasville to Downtown/Midtown,A,463 - Douglas MMTC/West Douglas - 1621_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Douglasville/West Douglas (PM)
+463 - W Douglas/Douglasville to Downtown/Midtown,A,463 - Douglas MMTC/West Douglas - 1633_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Douglasville/West Douglas (PM)
+463 - W Douglas/Douglasville to Downtown/Midtown,A,463 - Douglas MMTC/West Douglas - 1645_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Douglasville/West Douglas (PM)
+463 - W Douglas/Douglasville to Downtown/Midtown,A,463 - Douglas MMTC/West Douglas - 1705_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Douglasville/West Douglas (PM)
+463 - W Douglas/Douglasville to Downtown/Midtown,A,463 - Douglas MMTC/West Douglas - 1730_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Douglasville/West Douglas (PM)
+463 - W Douglas/Douglasville to Downtown/Midtown,A,463 - Douglas MMTC/West Douglas - 1800_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Douglasville/West Douglas (PM)
+463 - W Douglas/Douglasville to Downtown/Midtown,A,463 - Downtown/Midtown - 0515_20160909_99991231_20160906_99991231_2,0,,West Douglas/Douglasville to Downtown/Midtown (AM)_Jul 28 2016  3:07:27:100PM
+463 - W Douglas/Douglasville to Downtown/Midtown,A,463 - Downtown/Midtown - 0537_20160909_99991231_20160906_99991231_2,0,,West Douglas/Douglasville to Downtown/Midtown (AM)_Jul 28 2016  3:07:27:100PM
+463 - W Douglas/Douglasville to Downtown/Midtown,A,463 - Downtown/Midtown - 0557_20160909_99991231_20160906_99991231_2,0,,West Douglas/Douglasville to Downtown/Midtown (AM)_Jul 28 2016  3:07:27:100PM
+463 - W Douglas/Douglasville to Downtown/Midtown,A,463 - Downtown/Midtown - 0612_20160909_99991231_20160906_99991231_2,0,,West Douglas/Douglasville to Downtown/Midtown (AM)_Jul 28 2016  3:07:27:100PM
+463 - W Douglas/Douglasville to Downtown/Midtown,A,463 - Downtown/Midtown - 0624_20160909_99991231_20160906_99991231_2,0,,West Douglas/Douglasville to Downtown/Midtown (AM)_Jul 28 2016  3:07:27:100PM
+463 - W Douglas/Douglasville to Downtown/Midtown,A,463 - Downtown/Midtown - 0636_20160909_99991231_20160906_99991231_2,0,,West Douglas/Douglasville to Downtown/Midtown (AM)_Jul 28 2016  3:07:27:100PM
+463 - W Douglas/Douglasville to Downtown/Midtown,A,463 - Downtown/Midtown - 0648_20160909_99991231_20160906_99991231_2,0,,West Douglas/Douglasville to Downtown/Midtown (AM)_Jul 28 2016  3:07:27:100PM
+463 - W Douglas/Douglasville to Downtown/Midtown,A,463 - Downtown/Midtown - 0700_20160909_99991231_20160906_99991231_2,0,,West Douglas/Douglasville to Downtown/Midtown (AM)_Jul 28 2016  3:07:27:100PM
+463 - W Douglas/Douglasville to Downtown/Midtown,A,463 - Downtown/Midtown - 0715_20160909_99991231_20160906_99991231_2,0,,West Douglas/Douglasville to Downtown/Midtown (AM)_Jul 28 2016  3:07:27:100PM
+463 - W Douglas/Douglasville to Downtown/Midtown,A,463 - Downtown/Midtown - 0735_20160909_99991231_20160906_99991231_2,0,,West Douglas/Douglasville to Downtown/Midtown (AM)_Jul 28 2016  3:07:27:100PM
+463 - W Douglas/Douglasville to Downtown/Midtown,A,463 - Downtown/Midtown - 0800_20160909_99991231_20160906_99991231_2,0,,West Douglas/Douglasville to Downtown/Midtown (AM)_Jul 28 2016  3:07:27:100PM
+476 - Hiram/Powder Springs to Downtown/Midtown,A,476 - Downtown/Midtown - 0520_20160909_99991231_20160906_99991231_2,0,,Hiram/Powder Springs to Downtown/Midtown (AM)
+476 - Hiram/Powder Springs to Downtown/Midtown,A,476 - Downtown/Midtown - 0545_20160909_99991231_20160906_99991231_2,0,,Hiram/Powder Springs to Downtown/Midtown (AM)
+476 - Hiram/Powder Springs to Downtown/Midtown,A,476 - Downtown/Midtown - 0605_20160909_99991231_20160906_99991231_2,0,,Hiram/Powder Springs to Downtown/Midtown (AM)
+476 - Hiram/Powder Springs to Downtown/Midtown,A,476 - Downtown/Midtown - 0620_20160909_99991231_20160906_99991231_2,0,,Hiram/Powder Springs to Downtown/Midtown (AM)
+476 - Hiram/Powder Springs to Downtown/Midtown,A,476 - Downtown/Midtown - 0635_20160909_99991231_20160906_99991231_2,0,,Hiram/Powder Springs to Downtown/Midtown (AM)
+476 - Hiram/Powder Springs to Downtown/Midtown,A,476 - Downtown/Midtown - 0650_20160909_99991231_20160906_99991231_2,0,,Hiram/Powder Springs to Downtown/Midtown (AM)
+476 - Hiram/Powder Springs to Downtown/Midtown,A,476 - Downtown/Midtown - 0705_20160909_99991231_20160906_99991231_2,0,,Hiram/Powder Springs to Downtown/Midtown (AM)
+476 - Hiram/Powder Springs to Downtown/Midtown,A,476 - Downtown/Midtown - 0725_20160909_99991231_20160906_99991231_2,0,,Hiram/Powder Springs to Downtown/Midtown (AM)
+476 - Hiram/Powder Springs to Downtown/Midtown,A,476 - Downtown/Midtown - 0750_20160909_99991231_20160906_99991231_2,0,,Hiram/Powder Springs to Downtown/Midtown (AM)
+476 - Hiram/Powder Springs to Downtown/Midtown,A,476 - Powder Springs/Hiram - 1500_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Powder Springs/Hiram (PM)
+476 - Hiram/Powder Springs to Downtown/Midtown,A,476 - Powder Springs/Hiram - 1530_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Powder Springs/Hiram (PM)
+476 - Hiram/Powder Springs to Downtown/Midtown,A,476 - Powder Springs/Hiram - 1550_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Powder Springs/Hiram (PM)
+476 - Hiram/Powder Springs to Downtown/Midtown,A,476 - Powder Springs/Hiram - 1600_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Powder Springs/Hiram (PM)
+476 - Hiram/Powder Springs to Downtown/Midtown,A,476 - Powder Springs/Hiram - 1615_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Powder Springs/Hiram (PM)
+476 - Hiram/Powder Springs to Downtown/Midtown,A,476 - Powder Springs/Hiram - 1630_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Powder Springs/Hiram (PM)
+476 - Hiram/Powder Springs to Downtown/Midtown,A,476 - Powder Springs/Hiram - 1645_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Powder Springs/Hiram (PM)
+476 - Hiram/Powder Springs to Downtown/Midtown,A,476 - Powder Springs/Hiram - 1700_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Powder Springs/Hiram (PM)
+476 - Hiram/Powder Springs to Downtown/Midtown,A,476 - Powder Springs/Hiram - 1720_20160909_99991231_20160906_99991231_2,0,,Downtown/Midtown to Powder Springs/Hiram (PM)
+480 - Acworth/Town Center (Big Shanty) to Downtown,A,480 - Downtown - 0530_20160909_99991231_20160906_99991231_2,0,,Acworth/Town Center (Big Shanty) to Downtown (AM)_Aug  9 2016  3:40:02:467PM
+480 - Acworth/Town Center (Big Shanty) to Downtown,A,480 - Downtown - 0600_20160909_99991231_20160906_99991231_2,0,,Acworth/Town Center (Big Shanty) to Downtown (AM)_Aug  9 2016  3:40:02:467PM
+480 - Acworth/Town Center (Big Shanty) to Downtown,A,480 - Downtown - 0630_20160909_99991231_20160906_99991231_2,0,,Acworth/Town Center (Big Shanty) to Downtown (AM)_Aug  9 2016  3:40:02:467PM
+480 - Acworth/Town Center (Big Shanty) to Downtown,A,480 - Downtown - 0700_20160909_99991231_20160906_99991231_2,0,,Acworth/Town Center (Big Shanty) to Downtown (AM)_Aug  9 2016  3:40:02:467PM
+480 - Acworth/Town Center (Big Shanty) to Downtown,A,480 - Downtown - 0745_20160909_99991231_20160906_99991231_2,0,,Acworth/Town Center (Big Shanty) to Downtown (AM)_Aug  9 2016  3:40:02:467PM
+480 - Acworth/Town Center (Big Shanty) to Downtown,A,480 - Town Center/Acworth - 1500_20160909_99991231_20160906_99991231_2,0,,Downtown to Town Center (Big Shanty)/Acworth (PM)
+480 - Acworth/Town Center (Big Shanty) to Downtown,A,480 - Town Center/Acworth - 1600_20160909_99991231_20160906_99991231_2,0,,Downtown to Town Center (Big Shanty)/Acworth (PM)
+480 - Acworth/Town Center (Big Shanty) to Downtown,A,480 - Town Center/Acworth - 1630_20160909_99991231_20160906_99991231_2,0,,Downtown to Town Center (Big Shanty)/Acworth (PM)
+480 - Acworth/Town Center (Big Shanty) to Downtown,A,480 - Town Center/Acworth - 1700_20160909_99991231_20160906_99991231_2,0,,Downtown to Town Center (Big Shanty)/Acworth (PM)
+480 - Acworth/Town Center (Big Shanty) to Downtown,A,480 - Town Center/Acworth - 1745_20160909_99991231_20160906_99991231_2,0,,Downtown to Town Center (Big Shanty)/Acworth (PM)
+483 - Woodstock/Town Center(Big Shanty) to Midtown,A,483 - Midtown - 0530_20160909_99991231_20160906_99991231_2,0,,Woodstock/Town Center (Big Shanty) to Midtown (AM)
+483 - Woodstock/Town Center(Big Shanty) to Midtown,A,483 - Midtown - 0600_20160909_99991231_20160906_99991231_2,0,,Woodstock/Town Center (Big Shanty) to Midtown (AM)
+483 - Woodstock/Town Center(Big Shanty) to Midtown,A,483 - Midtown - 0620_20160909_99991231_20160906_99991231_2,0,,Woodstock/Town Center (Big Shanty) to Midtown (AM)
+483 - Woodstock/Town Center(Big Shanty) to Midtown,A,483 - Midtown - 0640_20160909_99991231_20160906_99991231_2,0,,Woodstock/Town Center (Big Shanty) to Midtown (AM)
+483 - Woodstock/Town Center(Big Shanty) to Midtown,A,483 - Midtown - 0700_20160909_99991231_20160906_99991231_2,0,,Woodstock/Town Center (Big Shanty) to Midtown (AM)
+483 - Woodstock/Town Center(Big Shanty) to Midtown,A,483 - Midtown - 0720_20160909_99991231_20160906_99991231_2,0,,Woodstock/Town Center (Big Shanty) to Midtown (AM)
+483 - Woodstock/Town Center(Big Shanty) to Midtown,A,483 - Midtown - 0755_20160909_99991231_20160906_99991231_2,0,,Woodstock/Town Center (Big Shanty) to Midtown (AM)
+483 - Woodstock/Town Center(Big Shanty) to Midtown,A,483 - Town Center/Woodstock - 1515_20160909_99991231_20160906_99991231_2,0,,Midtown to Town Center (Big Shanty)/Woodstock (PM)
+483 - Woodstock/Town Center(Big Shanty) to Midtown,A,483 - Town Center/Woodstock - 1545_20160909_99991231_20160906_99991231_2,0,,Midtown to Town Center (Big Shanty)/Woodstock (PM)
+483 - Woodstock/Town Center(Big Shanty) to Midtown,A,483 - Town Center/Woodstock - 1605_20160909_99991231_20160906_99991231_2,0,,Midtown to Town Center (Big Shanty)/Woodstock (PM)
+483 - Woodstock/Town Center(Big Shanty) to Midtown,A,483 - Town Center/Woodstock - 1625_20160909_99991231_20160906_99991231_2,0,,Midtown to Town Center (Big Shanty)/Woodstock (PM)
+483 - Woodstock/Town Center(Big Shanty) to Midtown,A,483 - Town Center/Woodstock - 1645_20160909_99991231_20160906_99991231_2,0,,Midtown to Town Center (Big Shanty)/Woodstock (PM)
+483 - Woodstock/Town Center(Big Shanty) to Midtown,A,483 - Town Center/Woodstock - 1705_20160909_99991231_20160906_99991231_2,0,,Midtown to Town Center (Big Shanty)/Woodstock (PM)
+483 - Woodstock/Town Center(Big Shanty) to Midtown,A,483 - Town Center/Woodstock - 1745_20160909_99991231_20160906_99991231_2,0,,Midtown to Town Center (Big Shanty)/Woodstock (PM)
+490 - Canton/Woodstock to Downtown,A,490 - Downtown - 0535_20160909_99991231_20160909_99991231_2,0,,Canton/Woodstock to Downtown (AM)_Sep  8 2016 10:45:34:987AM
+490 - Canton/Woodstock to Downtown,A,490 - Downtown - 0605_20160909_99991231_20160909_99991231_2,0,,Canton/Woodstock to Downtown (AM)_Sep  8 2016 10:45:34:987AM
+490 - Canton/Woodstock to Downtown,A,490 - Woodstock to Downtown - 0645_20160909_99991231_20160909_99991231_2,0,,Woodstock to Downtown (AM)_Sep  8 2016 10:47:17:633AM
+490 - Canton/Woodstock to Downtown,A,490 - Woodstock to Downtown - 0710_20160909_99991231_20160909_99991231_2,0,,Woodstock to Downtown (AM)_Sep  8 2016 10:47:17:633AM
+490 - Canton/Woodstock to Downtown,A,490 - Woodstock/Canton - 1610_20160909_99991231_20160906_99991231_2,0,,Downtown to Woodstock/Canton (PM)
+490 - Canton/Woodstock to Downtown,A,490 - Woodstock/Canton - 1640_20160909_99991231_20160906_99991231_2,0,,Downtown to Woodstock/Canton (PM)
+490 - Canton/Woodstock to Downtown,A,490 - Woodstock/Canton - 1710_20160909_99991231_20160906_99991231_2,0,,Downtown to Woodstock/Canton (PM)
+490 - Canton/Woodstock to Downtown,A,490 - Woodstock/Canton - 1740_20160909_99991231_20160906_99991231_2,0,,Downtown to Woodstock/Canton (PM)

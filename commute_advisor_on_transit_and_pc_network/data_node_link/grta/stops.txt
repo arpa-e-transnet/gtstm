@@ -1,0 +1,121 @@
+stop_id,stop_name,stop_lat,stop_lon,hasPark
+6924,10900 Medlock Bridge Rd (S),34.0482027,-84.1774811,FALSE
+6907,17th St @ Market St,33.791328,-84.3947732,FALSE
+7010,17th St just before Spring St,33.79197,-84.3889368,FALSE
+6934,5510 Spalding Dr (S),33.9699886,-84.2231917,FALSE
+6935,5515 Spalding Dr (N),33.9702326,-84.2231058,FALSE
+6937,5664 Peachtree Parkway (N),33.9637523,-84.2245311,FALSE
+6938,6155 Peachtree Parkway (S),33.9513523,-84.2348599,FALSE
+6923,Across from 11315 Johns Creek Pkwy (N),34.0559828,-84.1698421,FALSE
+STOP_9d288c5e-3b4d-4947-b8d7-dc21063358e0,Acworth P&R,34.0772609,-84.6564603,TRUE
+6886,Baker St @ Peachtree St,33.7623448,-84.3870378,FALSE
+6878,Baker St @ Williams St,33.7623537,-84.3902779,FALSE
+6975,BrandsMart P&R,33.5470729,-84.2854893,TRUE
+6962,Canton P&R (Boling Park),34.2301432,-84.5006213,TRUE
+Central Ave (NB) @ MLK Jr Dr,Central Ave (NB) @ MLK Jr Dr,33.75104813,-84.38966002,FALSE
+STOP_36f0d156-f1de-42de-9fd7-dffb4853afbc,Central Ave @ Garnett St,33.7475908,-84.3921232,FALSE
+6881,Central Ave @ Mitchell St,33.7494285,-84.3907499,FALSE
+7000,Central Ave @ Wall St,33.7524258,-84.3883789,FALSE
+7006,Courtland @ Auburn Ave,33.7562437,-84.3843555,FALSE
+7005,Courtland @ Ellis St,33.7587056,-84.3843126,FALSE
+Courtland St (SB) @ Gilmer St,Courtland St (SB) @ Gilmer St,33.75331818,-84.38546241,FALSE
+6913,Cumming P&R,34.1812757,-84.1428065,TRUE
+7160,Dacula P&R (Hebron Baptist Church),33.9987655,-83.9070511,TRUE
+6942,Doraville MARTA Station,33.9024615,-84.280586,TRUE
+6956,Douglas Multi Modal Center P&R,33.7432997,-84.7262299,TRUE
+6970,Dunwoody MARTA,33.9213639,-84.3442726,FALSE
+6972,East Conyers P&R (Springfield Church),33.6412408,-83.9868414,TRUE
+6905,Forsyth St @ MLK Jr Dr,33.7523188,-84.3937433,FALSE
+6930,Forum @ 5555 Ptree Pkwy (S),33.9810764,-84.215666,FALSE
+6931,GA 141,33.9809176,-84.2152161,FALSE
+6925,GA 141 @ Abbotts Br ShpCtr (N),34.0467209,-84.1781636,FALSE
+6927,GA 141 @ Medlock Br Pkwy (N),34.0294378,-84.1866944,FALSE
+6926,GA 141 @ Medlock Br Pkwy (S),34.0292595,-84.1871168,FALSE
+6929,GA 141 @ Medlock Crossing ShpCtr (S),34.0172921,-84.1904481,FALSE
+10973355,GA 141 @ Parsons Rd (N),34.0401782,-84.1842949,FALSE
+10973356,GA 141 @ Parsons Rd (S),34.0402493,-84.1845202,FALSE
+6928,GA 141@ State Br Corners ShpCtr (N),34.0171449,-84.190027,FALSE
+6991,Hamilton Mill P&R,34.0751992,-83.9215887,TRUE
+6951,Hampton P&R (Boothe's Crossing),33.3815011,-84.2997479,TRUE
+6936,HCA @ 5707 Peachtree Parkway (S),33.9641971,-84.2247725,FALSE
+STOP_b4c9d917-9de4-4086-ab79-b4036873b927,Hewatt Rd P&R,33.8393561,-84.0598619,TRUE
+STOP_02b00696-312d-447b-959a-147470685d50,Hiram P&R,33.8852642,-84.7392011,TRUE
+6902,Ivan Allen @ Alexander St,33.7649403,-84.386791,FALSE
+6974,JC Pkwy @ Commerce Way (N),34.0717541,-84.1651071,FALSE
+6921,JC Pkwy @ E Johns Crossing (N),34.0632101,-84.1645968,FALSE
+6917,JC Pkwy @ Johns Creek Ct (N),34.0682583,-84.1618609,FALSE
+6889,John Portman Blvd @ Peachtree St,33.7609177,-84.3878424,FALSE
+7004,John Portman Blvd just past Peachtree Center Ave,33.760915,-84.384411,FALSE
+6969,Jonesboro P&R,33.5242952,-84.3620825,TRUE
+STOP_8e13caee-d611-4ee5-a524-c62aa6e4eae9,Lindbergh Center MARTA Station,33.82128296,-84.36898249,FALSE
+6988,Mall of Georgia P&R,34.0674946,-83.9828107,TRUE
+6949,McDonough P&R,33.4168724,-84.1812265,TRUE
+6971,Medical Center MARTA Station,33.9108668,-84.3514824,FALSE
+Mitchell St (EB) @ Peachtree St,Mitchell St (EB) @ Peachtree St,33.75106626,-84.39323048,FALSE
+6882,MLK Jr Dr just before Peachtree St,33.7519084,-84.3916726,FALSE
+6954,Newnan P&R,33.4037073,-84.7231185,TRUE
+North Ave (EB) @ Peachtree St,North Ave (EB) @ Peachtree St,33.771284,-84.3854028,FALSE
+6948,Panola Rd P&R,33.7021979,-84.1734052,TRUE
+7003,Peachtree Center Ave @ Andrew Young International Blvd,33.759437,-84.3859971,FALSE
+7001,Peachtree Center Ave @ Auburn Ave,33.7553249,-84.38604,FALSE
+7002,Peachtree Center Ave @ John Wesley Dobbs Ave,33.7569484,-84.3860292,FALSE
+6880,Peachtree Center Ave between Baker & Peachtree,33.7635222,-84.3859112,FALSE
+Peachtree Center Pkwy (N),Peachtree Center Pkwy (N),33.92758867,-84.34409049,FALSE
+Peachtree Center Pkwy (S),Peachtree Center Pkwy (S),33.92748638,-84.34420242,FALSE
+Peachtree Center Pkwy Office Park (N),Peachtree Center Pkwy Office Park (N),33.92555773,-84.34508902,FALSE
+Peachtree Center Pkwy Office Park (S),Peachtree Center Pkwy Office Park (S),33.92559497,-84.34520572,FALSE
+North Ave. (EB) @ Peachtree St.,Peachtree St (NB) @ Linden Ave,33.76950958,-84.38519476,FALSE
+Peachtree St (NB) @ MARTA Five Points Station,Peachtree St (NB) @ MARTA Five Points Station,33.75341811,-84.39079278,FALSE
+6888,Peachtree St @ Baker St,33.762541,-84.3874133,FALSE
+6895,Ponce de Leon Ave @ W Peachtree St,33.77233826,-84.38771229,FALSE
+STOP_0bc0e1fb-eab4-4376-b8ba-bd64fe7247d0,Powder Springs P&R,33.8675114,-84.7015643,TRUE
+Pryor St (SB) @ Garnett St,Pryor St (SB) @ Garnett St,33.74830922,-84.39341409,FALSE
+Pryor St (SB) @ Mitchell St,Pryor St (SB) @ Mitchell St,33.75071571,-84.39150481,FALSE
+6999,PtreeDunwoody-Concourse (E),33.9160665,-84.3511391,FALSE
+6998,PtreeDunwoody-Concourse (W),33.9168856,-84.3514073,FALSE
+6939,Publix,33.9517705,-84.2342806,FALSE
+6952,Riverdale P&R,33.5679493,-84.4034743,TRUE
+Sandy Springs MARTA Station,Sandy Springs MARTA Station,33.9322072,-84.3507597,FALSE
+STOP_f24b301d-699f-4911-8ac0-60f2867a047e,Snellville P&R,33.8537913,-84.0154445,TRUE
+Spring St (NB) @ Brotherton St,Spring St (NB) @ Brotherton St,33.74875018,-84.39797184,FALSE
+6898,Spring St @ 17th St,33.7903204,-84.3894196,FALSE
+6901,Spring St @ 5th St,33.7770249,-84.3889046,FALSE
+6909,Spring St @ W Peachtree Pl,33.7638343,-84.3889046,FALSE
+6903,Spring St just before Linden Ave,33.77073318,-84.38896364,FALSE
+6950,Stockbridge P&R,33.5481698,-84.2789904,TRUE
+6987,Stone Mountain P&R,33.8224138,-84.1099548,TRUE
+STOP_71ebbf8d-ee24-483b-9e2d-312bb8ddfa85,Sugarloaf Mills P&R,33.9842748,-84.0794849,TRUE
+Sugarloaf Mills P&R (GCT),Sugarloaf Mills P&R (GCT),33.98331276,-84.08417535,TRUE
+Ted Turner Dr (NB) @ Mitchell St,Ted Turner Dr (NB) @ Mitchell St,33.75220879,-84.39578455,FALSE
+Ted Turner Dr (SB) @ Brotherton St,Ted Turner Dr (SB) @ Brotherton St,33.74918754,-84.39803505,FALSE
+STOP_b7df8404-b783-4731-a3de-33b77167f80e,Thornton Rd @ Bankhead Hwy,33.7973464,-84.6436715,FALSE
+STOP_7050625b-a9d6-45dd-9ea8-79d7e55968c6,Thornton Rd @ Bankhead Hwy N,33.7975603,-84.6435857,FALSE
+STOP_e3133ab4-8cb7-4555-93b3-3faba9b51fe7,Thornton Rd @ Maxham Rd,33.7893753,-84.6237159,FALSE
+STOP_82875802-85f5-44e6-86a6-eb0b5d77b45d,Thornton Rd @ Maxham Rd N,33.7897587,-84.623791,FALSE
+STOP_0c2e82f3-d5a1-4a82-bcbf-219194c3301b,Thornton Rd @ N Blairs Bridge Rd N,33.7795575,-84.6068823,FALSE
+STOP_16153206-724d-4aac-a936-7ade27ff5271,Thornton Rd @ N Blairs Bridge Rd S,33.7794773,-84.6072257,FALSE
+STOP_40f29da1-1006-4e7b-8041-2f98b7c895de,Thornton Rd @ Oak Ridge Rd,33.783392,-84.6097684,FALSE
+STOP_d5b4d0b9-f615-40ee-8dc1-f9edacf74962,Thornton Rd @ Skyview Dr,33.7819385,-84.6088672,FALSE
+STOP_cc2a7a34-e728-4710-bc09-9cb16ae12282,Thornton Rd @ Westfork Blvd,33.792291,-84.6300995,FALSE
+STOP_7be618c3-765a-4f46-83a4-1b306a89f681,Town Center/Big Shanty,34.0275707,-84.5705652,FALSE
+6933,Triangle Pkwy at Metric Dr (N),33.9753055,-84.2239274,FALSE
+6932,Triangle Pkwy at Metric Dr (S),33.9753556,-84.2242891,FALSE
+6953,Union City P&R,33.5866936,-84.5124578,TRUE
+6916,W Johns Crossing @ Emory Hospital,34.067414,-84.1749179,FALSE
+W Peachtree St @ 12th St,W Peachtree St @ 12th St,33.78425259,-84.38782298,FALSE
+6896,W Peachtree St @ 5th St,33.7760885,-84.3872416,FALSE
+6899,W Peachtree St @ Arts Center MARTA Station,33.7892148,-84.3876922,FALSE
+6904,W Peachtree St @ Civic Center MARTA Station (northbound),33.7661533,-84.3874776,FALSE
+6887,W Peachtree St @ Civic Center MARTA Station (southbound),33.7661444,-84.3875849,FALSE
+6897,W Peachtree St @ Peachtree Pl,33.780596,-84.387328,FALSE
+6894,W Peachtree St @ Ponce de Leon Ave,33.7721199,-84.3872631,FALSE
+6900,W Peachtree St after 14 St,33.7869499,-84.3877137,FALSE
+Wall St (EB) @ Central Ave,Wall St (EB) @ Central Ave,33.7526685,-84.38853165,FALSE
+7008,Washington St @ MLK Jr Dr,33.7503117,-84.3884003,FALSE
+6947,West Conyers P&R (Sigman Rd -  Downtown),33.6851303,-84.0588963,TRUE
+6946,West Conyers P&R (Sigman Rd -  Midtown),33.6851328,-84.0566843,TRUE
+2221057,West Conyers P&R (Sigman Rd - Perimeter),33.6850857,-84.0569758,TRUE
+6990,West Douglas P&R,33.7232689,-84.7735226,TRUE
+6873,Williams St @ Baker St,33.7624608,-84.3906641,FALSE
+6976,Woodstock P&R (His Hands Church),34.0815631,-84.5417543,TRUE
+8000,Mitchell St (EB) @ Forsyth St,33.751718,-84.394543,FALSE

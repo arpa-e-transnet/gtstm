@@ -1,0 +1,10 @@
+A,B,dist,mode,option,option_id,route,sequence,time,timeStamp,trip_id
+North Ave (EB) @ Peachtree St_75600,North Ave (EB) @ Peachtree St_75600,0.0,wait,grta-only,1,wait1,2,0.476363724424,7.93333333333,1
+North Ave (EB) @ Peachtree St_75600,6902_075939,0.24241044548,transit,grta-only,1,416 - Dacula to Downtown,3,0.0608333333333,7.99416666667,1
+6902_075939,6888_080341,0.267515331556,transit,grta-only,1,416 - Dacula to Downtown,4,0.0672222222222,8.06138888889,1
+6888_080341,7004_080706,0.226391183785,transit,grta-only,1,416 - Dacula to Downtown,5,0.0569444444444,8.11833333333,1
+7004_080706,7005_080940,0.169628261884,transit,grta-only,1,416 - Dacula to Downtown,6,0.0427777777778,8.16111111111,1
+7005_080940,7006_081200,0.154073145016,transit,grta-only,1,416 - Dacula to Downtown,7,0.0388888888889,8.2,1
+7006_081200,Courtland St (SB) @ Gilmer St_081203,0.301771172975,transit,grta-only,1,416 - Dacula to Downtown,8,0.000833333333334,8.20083333333,1
+Courtland St (SB) @ Gilmer St_081203,7008_081206,0.221963519395,transit,grta-only,1,416 - Dacula to Downtown,9,0.000833333333333,8.20166666667,1
+7008_081206,6882_081216,0.757950214032,transit,grta-only,1,416 - Dacula to Downtown,10,0.00277777777778,8.20444444444,1

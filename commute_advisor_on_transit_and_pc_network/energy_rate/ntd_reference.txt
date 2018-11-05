@@ -1,0 +1,4 @@
+https://www.transit.dot.gov/ntd/data-product/2015-annual-database-revenue-vehicle-inventory
+
+https://en.wikipedia.org/wiki/Miles_per_gallon_gasoline_equivalent#cite_note-mpge-3
+The ratings are based on EPA's formula, in which 33.7 kilowatt-hours (121 megajoules) of electricity is equivalent to one gallon of gasoline,[3] and the energy consumption of each vehicle during EPA's five standard drive cycle tests simulating varying driving conditions.[4][5] All new cars and light-duty trucks sold in the U.S. are required to have this label showing the EPA's estimate of fuel economy of the vehicle.[2]
